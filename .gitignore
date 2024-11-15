@@ -1,2 +1,4 @@
 phononDoS_tutorial/
 .ipynb_checkpoints/
+venv/
+**/__pycache__/
